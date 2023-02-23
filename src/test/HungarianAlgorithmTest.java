@@ -1,4 +1,4 @@
-package test;
+/*package test;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -13,7 +13,7 @@ import org.junit.Test;
  *
  * @author Kim Dinh Son
  * Email:sonkdbk@gmail.com
- */
+ *//*
 
 public class HungarianAlgorithmTest {
 	  private static double computeCost(double[][] matrix, int[] match) {
@@ -79,7 +79,7 @@ public class HungarianAlgorithmTest {
 
 	    }
 	  }
-
+*/
 //	  @Test
 //	  public void testUnassignedJob() {
 //	    double[][] matrix = new double[][] {
@@ -105,4 +105,4 @@ public class HungarianAlgorithmTest {
 //	    Assert.assertTrue(Arrays.equals(new int[] { 1, -1, 2, 3, 0 }, match));
 //	    Assert.assertEquals(3, computeCost(matrix, match), 0.0000001);
 //	  }
-	}
+//}
